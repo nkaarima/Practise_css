@@ -48,4 +48,16 @@
     margin-right:30px;
     color:rgb(124, 97, 97);
 }
+.second-div{
+    margin-bottom:20px;
+    
+}
+
+.main{
+    background-image: url('images/foul_lady.jpeg');
+    height:800px;
+    background-repeat:no-repeat;
+    background-size:contain;
+
+}
 

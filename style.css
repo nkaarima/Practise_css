@@ -1,0 +1,51 @@
+.top-div{
+    background-color: teal;
+    color:white;
+    text-align:center;
+    border:5px solid;
+     margin-bottom:20px;
+}
+
+.heading{
+    font-size: larger;
+}
+.options{
+    list-style-type:none;
+    display:inline;
+}
+
+.options li{
+    display:inline;
+    color:rgb(39, 123, 123);
+}
+
+.options li{
+    margin-right:5px;
+}
+.account-info{
+    list-style-type:none;
+    display:inline;
+    margin-left:500px;
+  
+}
+
+.account-info li{
+    display:inline;
+    color:teal;
+    text-align:right;
+    margin-left:20px;
+}
+
+.book-types{
+     list-style-type:none;
+
+}
+
+.book-types li{
+    display:inline;
+    font-size:larger;
+    font-weight: bold;
+    margin-right:30px;
+    color:rgb(124, 97, 97);
+}
+
